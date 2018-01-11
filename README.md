@@ -1,5 +1,5 @@
-# Objetivo
-Este programa tem por objetivo mostrar os dados como título, capa, sinopse e URLs do trailer de uma lista de seus filmes favoritos, esses dados devem ser informados como uma estrutura de dados no arquivo entertainment_center.py.
+# Python sample
+This program aims to show data such as title, cover, synopsis and trailer URLs of a list of your favorite movies, this data should be reported as a data structure in the file entertainment_center.py.
 
-# Programa fresh_tomatoes.py
-Este programa possui a função open_movies_page() que irá construir o arquivo HTML fresh_tomatoes.html, para que você possa exibir seu site.
+# Program fresh_tomatoes.py
+This program has the open_movies_page () function that will build the fresh_tomatoes.html HTML file so you can view your site.
