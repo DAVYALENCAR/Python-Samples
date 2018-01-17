@@ -3,3 +3,8 @@ This program aims to show data such as title, cover, synopsis and trailer URLs o
 
 # Program fresh_tomatoes.py
 This program has the open_movies_page () function that will build the fresh_tomatoes.html HTML file so you can view your site.
+
+# movie.py contains the functions for receiving movie data and mounts the html file.
+
+# fresh_tomatoes.html is the file that will receive the data to display the image of movie and
+which after being clicked will run the movie trailer.
