@@ -13,8 +13,8 @@ This program has the open_movies_page () function that will build the fresh_toma
 This program contains the functions for receiving movie data and mounts the html file.
 
 # Program fresh_tomatoes.html
-ThiS is the program that will receive the data to display the image of movie and
+This is the program that will receive the data to display the image of movie and
 which after being clicked will run the movie trailer.
 
-# entertainment_center.py
+# Program entertainment_center.py
 This program contains the list with the parameters of each movie such as: the name of the movie, brief historical, the image and the trailer.
